@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/mishraniket452" target="blank"><img src="https://img.shields.io/twitter/follow/mishraniket452?logo=twitter&style=for-the-badge" alt="mishraniket452" /></a> </p>
 
-- 🌱 I’m currently learning **java,HTML,Css,java scriept..**
+- 🌱 I’m currently learning **java,HTML,Css,java script..**
 
 - 💬 Ask me about **java**
 
