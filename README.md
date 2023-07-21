@@ -1,33 +1,6 @@
-<!doctype html>
-<html>
-<head>
-  <meta charset=utf-8>
-  <title>horse</title>
- <link href='http://fonts.googleapis.com/css?family=Spirax' rel='stylesheet' type='text/css'>
-</head>
-<body>
-<h1>Sallie Gardner at a Gallop</h1>
-</body>	
-</html>
-html { 
-  background: url(http://upload.wikimedia.org/wikipedia/commons/d/dd/Muybridge_race_horse_animated.gif) no-repeat center center fixed; 
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-  height: 100%;
-}
-body {
-    height: 100%;
-}
+[![MasterHead](https://cdna.artstation.com/p/assets/images/images/060/460/880/original/pixel-jeff-chill-mario-2023-2.gif?1678633376
+)]
 
-h1 {
-    font-family: 'Spirax', cursive;
-    font-size: 1.8em;
-    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=20)";
-    filter: alpha(opacity=20);
-    opacity: 0.2;
-}
 
 
 <h1 align="center">Hi 👋, I'm Niket mishra</h1>
