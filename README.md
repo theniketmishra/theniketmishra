@@ -1,5 +1,4 @@
-[![MasterHead](https://pixeljeff1995.artstation.com/projects/1n5aJK?album_id=45252
-)](https://theniketmishra.io)
+[![MasterHead](https://github.com/theniketmishra/theniketmishra/blob/main/pixel-jeff-galaxy-far-far-away.gif)](https://theniketmishra.io)
 
 
 <h1 align="center">Hi 👋, I'm Niket mishra</h1>
